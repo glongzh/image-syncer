@@ -3,16 +3,5 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  k8s.gcr.io/metrics-server/metrics-server: glongzh/metrics-server
-  k8s.gcr.io/ingress-nginx/controller: glongzh/ingress-nginx-controller
-  k8s.gcr.io/kube-state-metrics/kube-state-metrics: glongzh/kube-state-metrics
-  k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner: glongzh/nfs-subdir-external-provisioner
-  k8s.gcr.io/prometheus-adapter/prometheus-adapter: glongzh/prometheus-adapter
   # kubernetes
-  k8s.gcr.io/kube-apiserver: glongzh/kube-apiserver
-  k8s.gcr.io/kube-controller-manager: glongzh/kube-controller-manager
-  k8s.gcr.io/kube-scheduler: glongzh/kube-scheduler
-  k8s.gcr.io/kube-proxy: glongzh/kube-proxy
-  k8s.gcr.io/pause: glongzh/pause
-  k8s.gcr.io/etcd: glongzh/etcd
-  coredns/coredns: glongzh/coredns
+  "k8s.gcr.io/kube-apiserver:v1.21.9": "glongzh/kube-apiserver:v1.21.9"
