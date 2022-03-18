@@ -4,4 +4,4 @@ auth:
     password: DOCKERHUB_PASSWORD
 images:
   # kubernetes
-  "k8s.gcr.io/kube-apiserver:v1.21.9": "glongzh/kube-apiserver:v1.21.9"
+  "registry.cn-qingdao.aliyuncs.com/sealer-io/kubernetes:v1.19.8": "glongzh/sealer-kubernetes:v1.19.8"
