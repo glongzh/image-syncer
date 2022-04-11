@@ -4,4 +4,4 @@ auth:
     password: DOCKERHUB_PASSWORD
 images:
   # kubernetes
-  "registry.cn-qingdao.aliyuncs.com/sealer-io/kubernetes:v1.19.8": "glongzh/sealer-kubernetes:v1.19.8"
+  "k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2": "glongzh/nfs-subdir-external-provisioner:v4.0.2"
