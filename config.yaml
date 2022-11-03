@@ -3,5 +3,19 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  # kubernetes
-  "k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2": "glongzh/nfs-subdir-external-provisioner:v4.0.2"
+  "ghcr.io/open-telemetry/demo:v1.0.0-checkoutservice": "glongzh/open-telemetry-demo:v1.0.0-checkoutservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-adservice": "glongzh/open-telemetry-demo:v1.0.0-adservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-cartservice": "glongzh/open-telemetry-demo:v1.0.0-cartservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-currencyservice": "glongzh/open-telemetry-demo:v1.0.0-currencyservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-emailservice": "glongzh/open-telemetry-demo:v1.0.0-emailservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-frontend": "glongzh/open-telemetry-demo:v1.0.0-frontend"
+  "ghcr.io/open-telemetry/demo:v1.0.0-frontendproxy": "glongzh/open-telemetry-demo:v1.0.0-frontendproxy"
+  "ghcr.io/open-telemetry/demo:v1.0.0-loadgenerator": "glongzh/open-telemetry-demo:v1.0.0-loadgenerator"
+  "ghcr.io/open-telemetry/demo:v1.0.0-paymentservice": "glongzh/open-telemetry-demo:v1.0.0-paymentservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-productcatalogservice": "glongzh/open-telemetry-demo:v1.0.0-productcatalogservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-quoteservice": "glongzh/open-telemetry-demo:v1.0.0-quoteservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-recommendationservice": "glongzh/open-telemetry-demo:v1.0.0-recommendationservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-shippingservice": "glongzh/open-telemetry-demo:v1.0.0-shippingservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-featureflagservice": "glongzh/open-telemetry-demo:v1.0.0-featureflagservice"
+  "ghcr.io/open-telemetry/demo:v1.0.0-integrationTests": "glongzh/open-telemetry-demo:v1.0.0-integrationTests"
+  "ghcr.io/open-telemetry/demo:v1.0.0-frontend-tests": "glongzh/open-telemetry-demo:v1.0.0-frontend-tests"
