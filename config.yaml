@@ -3,4 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "easychen/ai.level06.com": "glongzh/openaiproxy"
+  "apache/apisix-dashboard:3.0.0-alpine": "glongzh/apisix-dashboard:3.0.0-alpine"
