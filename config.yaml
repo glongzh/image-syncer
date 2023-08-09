@@ -3,4 +3,8 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "apache/apisix-dashboard:3.0.0-alpine": "glongzh/apisix-dashboard:3.0.0-alpine"
+  "nocalhost-docker.pkg.coding.net/nocalhost/dev-images/python:3.9": "glongzh/nocalhost-dev-python:3.9"
+  "nocalhost-docker.pkg.coding.net/nocalhost/dev-images/java:11": "glongzh/nocalhost-dev-java:11"
+  "nocalhost-docker.pkg.coding.net/nocalhost/dev-images/golang:latest": "glongzh/nocalhost-dev-golang:latest"
+  "nocalhost-docker.pkg.coding.net/nocalhost/dev-images/node:14": "glongzh/nocalhost-dev-node:14"
+  "nocalhost-docker.pkg.coding.net/nocalhost/public/nocalhost-sidecar:syncthing": "glongzh/nocalhost-sidecar:syncthing"
