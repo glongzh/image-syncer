@@ -3,4 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "	nocalhost-docker.pkg.coding.net/nocalhost/public/nocalhost-vpn:v1": "glongzh/nocalhost-vpn:v1"
+  "nocalhost-docker.pkg.coding.net/nocalhost/public/nocalhost-vpn:v1": "glongzh/nocalhost-vpn:v1"
