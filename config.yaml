@@ -3,4 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "nocalhost-docker.pkg.coding.net/nocalhost/public/nocalhost-vpn:v1": "glongzh/nocalhost-vpn:v1"
+  "registry.cn-hangzhou.aliyuncs.com/music_downloader/qq_flac_music_downloader:latest": "glongzh/qq_flac_music_downloader:latest"
