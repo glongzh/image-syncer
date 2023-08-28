@@ -3,4 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "registry.cn-hangzhou.aliyuncs.com/music_downloader/qq_flac_music_downloader:latest": "glongzh/qq_flac_music_downloader:latest"
+  "nacos/nacos-server:latest": "glongzh/nacos-server:latest"
