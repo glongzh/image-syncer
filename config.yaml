@@ -3,4 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "nacos/nacos-server:latest": "glongzh/nacos-server:latest"
+  "registry.cn-hangzhou.aliyuncs.com/goodrain/rainbond:v5.15.2-dind-allinone": "glongzh/rainbond:v5.15.2-dind-allinone"
