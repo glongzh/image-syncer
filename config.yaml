@@ -3,4 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "registry.cn-hangzhou.aliyuncs.com/goodrain/rainbond:v5.15.2-dind-allinone": "glongzh/rainbond:v5.15.2-dind-allinone"
+  "registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2": "glongzh/nfs-subdir-external-provisioner:v4.0.2"
