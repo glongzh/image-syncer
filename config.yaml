@@ -3,4 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2": "glongzh/nfs-subdir-external-provisioner:v4.0.2"
+  "quay.io/argoproj/argocd:v2.9.3": "glongzh/argocd:v2.9.3"
