@@ -3,4 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "quay.io/argoproj/argocd:v2.9.3": "glongzh/argocd:v2.9.3"
+  "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-controllers:v3.26.1": "glongzh/kube-controllers:v3.26.1"
