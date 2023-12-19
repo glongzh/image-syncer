@@ -3,7 +3,6 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "registry.cn-beijing.aliyuncs.com/kubesphereio/cni:v3.26.1": "glongzh/cni:v3.26.1"
-  "registry.cn-beijing.aliyuncs.com/kubesphereio/pod2daemon-flexvol:v3.26.1": "glongzh/pod2daemon-flexvol:v3.26.1"
-  "registry.cn-beijing.aliyuncs.com/kubesphereio/node:v3.26.1": "glongzh/node:v3.26.1"
-  "registry.cn-beijing.aliyuncs.com/kubesphereio/typha:v3.26.1": "glongzh/typha:v3.26.1"
+  "registry.cn-beijing.aliyuncs.com/kubesphereio/gatekeeper:v3.5.2": "glongzh/gatekeeper:v3.5.2"
+  "registry.cn-beijing.aliyuncs.com/kubesphereio/opensearch-curator:v0.0.5": "glongzh/opensearch-curator:v0.0.5"
+  "registry.cn-beijing.aliyuncs.com/kubesphereio/opensearch:2.6.0": "glongzh/opensearch:2.6.0"
