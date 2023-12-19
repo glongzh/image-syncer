@@ -3,6 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "registry.cn-beijing.aliyuncs.com/kubesphereio/gatekeeper:v3.5.2": "glongzh/gatekeeper:v3.5.2"
-  "registry.cn-beijing.aliyuncs.com/kubesphereio/opensearch-curator:v0.0.5": "glongzh/opensearch-curator:v0.0.5"
-  "registry.cn-beijing.aliyuncs.com/kubesphereio/opensearch:2.6.0": "glongzh/opensearch:2.6.0"
+  "registry.cn-beijing.aliyuncs.com/kubesphereio/nginx-ingress-controller:v1.3.1": "glongzh/nginx-ingress-controller:v1.3.1"
