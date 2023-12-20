@@ -3,4 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "registry.cn-beijing.aliyuncs.com/kubesphereio/nginx-ingress-controller:v1.3.1": "glongzh/nginx-ingress-controller:v1.3.1"
+  "ghcr.io/projectcontour/contour:v1.27.0": "glongzh/contour:v1.27.0"
