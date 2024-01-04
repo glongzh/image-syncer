@@ -3,4 +3,4 @@ auth:
     username: DOCKERHUB_USERNAME
     password: DOCKERHUB_PASSWORD
 images:
-  "ghcr.io/projectcontour/contour:v1.27.0": "glongzh/contour:v1.27.0"
+  "registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2": "glongzh/nfs-subdir-external-provisioner:v4.0.2"
